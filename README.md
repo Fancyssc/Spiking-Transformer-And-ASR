@@ -18,9 +18,9 @@ Braincog is used to produced all codes
 ## referred code repo
 [Spikformer(ICLR2023)](https://github.com/ZK-Zhou/spikformer)
 
-(TIM(IJCAI2024))[https://github.com/Fancyssc/TIM]
+[TIM(IJCAI2024)](https://github.com/Fancyssc/TIM)
 
-(QKFormer(Nips2024))[https://github.com/zhouchenlin2096/QKFormer]
+[QKFormer(Nips2024)](https://github.com/zhouchenlin2096/QKFormer)
 
 
 ## reference
