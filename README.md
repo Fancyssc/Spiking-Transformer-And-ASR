@@ -15,6 +15,12 @@ Braincog is used to produced all codes
 |Spikformer + TIM | 10 | 86.3| 
 
 
+## referred code repo
+(Spikformer(ICLR2023))[https://github.com/ZK-Zhou/spikformer]
+(TIM(IJCAI2024))[https://github.com/Fancyssc/TIM]
+(QKFormer(Nips2024))[https://github.com/zhouchenlin2096/QKFormer]
+
+
 ## reference
 ```
 [1]	Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning internal representations by error propagation, parallel distributed processing, explorations in the microstructure of cognition, ed. de rumelhart and j. mcclelland. vol. 1. 1986. Biometrika, 71(599-607), 
